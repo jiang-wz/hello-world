@@ -1,2 +1,4 @@
 hi£¬this file used to test git.
 i will use this file to learn git.
+3rd line
+4 add new branch
