@@ -1,1 +1,2 @@
 hi£¬this file used to test git.
+i will use this file to learn git.
